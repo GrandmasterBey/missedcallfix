@@ -1,0 +1,23 @@
+# MissedCallFix
+
+> A neutral directory of AI receptionists and answering services for home-service trades (HVAC, plumbing, electrical, cleaning). Each listing's price comes from the vendor's own pricing page and is date-stamped.
+
+## Methodology
+- Prices, billing units and trials are checked against each vendor's own page. Each listing records `last_verified` and `source_url`.
+- Fields we could not confirm are listed in `unverified_fields`. We never estimate prices.
+
+## Key pages
+- [Directory](https://missedcallfix.vercel.app/)
+- [HVAC](https://missedcallfix.vercel.app/for/hvac/)
+- [Plumbing](https://missedcallfix.vercel.app/for/plumbing/)
+- [Electrical](https://missedcallfix.vercel.app/for/electrical/)
+- [Cleaning](https://missedcallfix.vercel.app/for/cleaning/)
+- [FAQ](https://missedcallfix.vercel.app/faq/)
+- [Methodology](https://missedcallfix.vercel.app/about/)
+- [Raw data (JSON)](https://missedcallfix.vercel.app/data/listings.json)
+
+## Disclosure
+Featured listings are paid placements. They are always labeled "Featured (paid)" and never change listing data.
+
+## Contact
+To be published at launch.

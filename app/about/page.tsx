@@ -1,0 +1,7 @@
+export const metadata={title:'Methodology & disclosure'};
+export default function A(){ return <><h1>Methodology &amp; disclosure</h1>
+<h2>How listings are verified</h2><ul><li>Every price, billing unit and trial comes from the vendor&apos;s own pricing or home page. We do not use third-party roundups as a source.</li><li>Each listing shows a <b>last verified</b> date and the source URL.</li>
+<li><span className="badge b-verified">verified</span> means the starting price, billing unit and trial were confirmed. Individual fields can still carry an &quot;unverified&quot; flag.</li><li><span className="badge b-partial">partial</span> means some pricing fields could not be confirmed.</li><li><span className="badge b-unverified">unverified</span> means the vendor publishes no price (contact sales) or we could not confirm it.</li>
+<li>Integrations marked &quot;(mentioned)&quot; are named on the vendor&apos;s page. We did not test how deep the integration goes.</li><li>We re-check prices at least monthly. Listings older than 45 days are due for a re-check.</li></ul>
+<h2>Money disclosure</h2><p>Listing is free. Vendors can pay for a <b>Featured</b> slot. A Featured listing is always labeled &quot;Featured (paid)&quot;, and paying never changes its data or flags. There are no affiliate links at this time. If we add any, they will be disclosed on the listing.</p>
+<h2>Corrections</h2><p>Vendors can request a correction by pointing to a public page that shows the change. (A contact address will be published at launch.)</p></>; }

@@ -1,0 +1,1171 @@
+[
+ {
+  "slug": "dialzara",
+  "name": "Dialzara",
+  "url": "https://dialzara.com",
+  "logo_url": null,
+  "one_liner": "AI receptionist with minute-based plans from $29/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 29,
+  "billing_unit": "minute",
+  "included_volume": "60 min/mo (Lite)",
+  "overage": "$0.48/min (Lite)",
+  "free_trial": "7-day free trial",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Self-editable prompt",
+   "Message taking with custom questions",
+   "Call recordings & summaries",
+   "AI SMS agent add-on ($19/mo + $0.05/msg)"
+  ],
+  "source_url": "https://dialzara.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "human_backup",
+   "integrations",
+   "languages"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "rosie",
+  "name": "Rosie",
+  "url": "https://heyrosie.com",
+  "logo_url": null,
+  "one_liner": "AI call answering for small businesses; Professional plan $49/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 49,
+  "billing_unit": "flat",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "7-day free trial",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Automatic spam detection",
+   "Website chat widget",
+   "Texts to callers during the call (Scale plan)",
+   "Website texting add-on $50/mo"
+  ],
+  "source_url": "https://heyrosie.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "included_volume",
+   "overage",
+   "integrations",
+   "human_backup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "goodcall",
+  "name": "Goodcall",
+  "url": "https://www.goodcall.com",
+  "logo_url": null,
+  "one_liner": "AI answering metered by unique callers; Starter $79/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 79,
+  "billing_unit": "unique caller",
+  "included_volume": "100 unique callers/mo (Starter)",
+  "overage": "unverified",
+  "free_trial": "Free demo agent (no classic trial)",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Free demo agent before adding a number",
+   "Growth $129/mo (500 unique callers)",
+   "Scale $299/mo (2,000 unique callers)"
+  ],
+  "source_url": "https://www.goodcall.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "overage",
+   "integrations",
+   "human_backup",
+   "sms_followup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "smith-ai",
+  "name": "Smith.ai AI Receptionist",
+  "url": "https://smith.ai",
+  "logo_url": null,
+  "one_liner": "AI receptionist billed per call, free tier of 25 calls/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 0,
+  "billing_unit": "call",
+  "included_volume": "25 calls/mo (Free); 75 calls (Pro $150)",
+  "overage": "$3.00/call on Free; $2.00/call Pro",
+  "free_trial": "Free plan (25 calls/mo)",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Free plan",
+   "Pro $150/mo",
+   "Enterprise from $500/mo",
+   "Quality Studio testing before go-live"
+  ],
+  "source_url": "https://smith.ai/pricing/ai-receptionist",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "human_backup",
+   "integrations"
+  ],
+  "notes": "Smith.ai also sells live-agent plans; AI page checked only.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "upfirst",
+  "name": "Upfirst",
+  "url": "https://upfirst.ai",
+  "logo_url": null,
+  "one_liner": "Per-call AI answering from $24.95/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 24.95,
+  "billing_unit": "call",
+  "included_volume": "30 calls/mo (Starter)",
+  "overage": "$1.50/call (Starter)",
+  "free_trial": "14-day free trial",
+  "human_backup": null,
+  "integrations": [
+   "Google Calendar"
+  ],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "24/7 answering",
+   "Recalls past callers",
+   "Annual billing saves 20% ($20/mo)",
+   "Additional agents $9.95/mo"
+  ],
+  "source_url": "https://upfirst.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "human_backup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "my-ai-front-desk",
+  "name": "My AI Front Desk",
+  "url": "https://www.myaifrontdesk.com",
+  "logo_url": null,
+  "one_liner": "AI phone receptionist, $99/mo or $79/mo billed annually.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 99,
+  "billing_unit": "minute",
+  "included_volume": "200 voice min/mo",
+  "overage": "Credits ($10 per 1,000; voice 25 credits/min)",
+  "free_trial": "7-day free trial",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Business-in-a-Box plan",
+   "Auto-reload credits",
+   "Knowledge base"
+  ],
+  "source_url": "https://www.myaifrontdesk.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "human_backup",
+   "integrations"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "trillet",
+  "name": "Trillet AI Receptionist",
+  "url": "https://www.trillet.ai",
+  "logo_url": null,
+  "one_liner": "Inbound-only AI receptionist for owner-operators at $49/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 49,
+  "billing_unit": "minute",
+  "included_volume": "150 min/mo",
+  "overage": "$0.20/min",
+  "free_trial": "7-day free trial (card required)",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "24/7 inbound answering",
+   "White-label agency plans from $99/mo"
+  ],
+  "source_url": "https://www.trillet.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations",
+   "human_backup",
+   "sms_followup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "phonely",
+  "name": "Phonely",
+  "url": "https://www.phonely.ai",
+  "logo_url": null,
+  "one_liner": "Voice AI phone answering with a free 100-minute tier.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 0,
+  "billing_unit": "minute",
+  "included_volume": "100 min/mo (Free); Starter $50/mo",
+  "overage": "unverified",
+  "free_trial": "Free plan",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Free tier",
+   "Email + SMS notifications",
+   "Spam filtering",
+   "HIPAA BAA on higher tier"
+  ],
+  "source_url": "https://www.phonely.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "overage",
+   "starter_minutes"
+  ],
+  "notes": "Pricing page shows both 200 and 250 minutes for Starter; unresolved.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "nextphone",
+  "name": "NextPhone",
+  "url": "https://www.nextphone.ai",
+  "logo_url": null,
+  "one_liner": "Flat-rate AI receptionist; no per-minute or overage fees.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 199,
+  "billing_unit": "flat",
+  "included_volume": "No per-minute pricing per vendor",
+  "overage": "None per vendor",
+  "free_trial": "7-day free trial",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Pro $199, Growth $299, Scale $599",
+   "Extra numbers for locations"
+  ],
+  "source_url": "https://www.nextphone.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations",
+   "human_backup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "oncrew",
+  "name": "OnCrew",
+  "url": "https://www.oncrew.ai",
+  "logo_url": null,
+  "one_liner": "AI receptionist built for HVAC, plumbing and electrical.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical"
+  ],
+  "starting_price_usd": 49,
+  "billing_unit": "call",
+  "included_volume": "100 calls/mo + 150 alert texts",
+  "overage": "$0.99/call; $0.05/text",
+  "free_trial": "14-day free trial",
+  "human_backup": null,
+  "integrations": [
+   "Jobber (mentioned)",
+   "Housecall Pro (mentioned)"
+  ],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Trades-focused",
+   "Alert texts",
+   "Plans $49 / $149 / $349"
+  ],
+  "source_url": "https://www.oncrew.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "human_backup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "ruby",
+  "name": "Ruby",
+  "url": "https://www.ruby.com",
+  "logo_url": null,
+  "one_liner": "Live human virtual receptionists billed by minute.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 250,
+  "billing_unit": "minute",
+  "included_volume": "50 min/mo",
+  "overage": "unverified",
+  "free_trial": "unverified",
+  "human_backup": true,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Live human receptionists",
+   "Chat plans from $143/mo"
+  ],
+  "source_url": "https://www.ruby.com/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "overage",
+   "free_trial"
+  ],
+  "notes": "Human service, included for comparison.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "abby",
+  "name": "Abby Connect",
+  "url": "https://www.abby.com",
+  "logo_url": null,
+  "one_liner": "Receptionist plans from $165/mo with AI and live options.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 165,
+  "billing_unit": "minute",
+  "included_volume": "50 Abby minutes/mo",
+  "overage": "unverified",
+  "free_trial": "Free trial offered",
+  "human_backup": true,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Starter $165, Essential $329, Professional $599"
+  ],
+  "source_url": "https://www.abby.com/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "overage"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "agentzap",
+  "name": "AgentZap",
+  "url": "https://agentzap.ai",
+  "logo_url": null,
+  "one_liner": "AI receptionist with home-service CRM integrations; $499 setup fee.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 109,
+  "billing_unit": "minute",
+  "included_volume": "150 min/mo (Starter)",
+  "overage": "$0.85/min",
+  "free_trial": "unverified",
+  "human_backup": null,
+  "integrations": [
+   "ServiceTitan (mentioned)",
+   "Jobber (mentioned)",
+   "Housecall Pro (mentioned)",
+   "Google Calendar (mentioned)"
+  ],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "$499 one-time training & setup fee",
+   "Professional $295 (450 min)",
+   "Managed plan option"
+  ],
+  "source_url": "https://agentzap.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "free_trial"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "aircall",
+  "name": "Aircall AI Voice Agents",
+  "url": "https://aircall.io",
+  "logo_url": null,
+  "one_liner": "AI voice agents on Aircall phone system.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 100,
+  "billing_unit": "monthly minimum",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "Free access offered",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "38 languages",
+   "Works with or without Aircall phone system"
+  ],
+  "source_url": "https://aircall.io/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "billing_unit",
+   "included_volume",
+   "overage"
+  ],
+  "notes": "Phone seats $30-$50/license/mo separate.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "allo",
+  "name": "Allo AI Receptionist",
+  "url": "https://www.withallo.com",
+  "logo_url": null,
+  "one_liner": "AI receptionist add-on ($32/mo per agent yearly) to Allo phone seats.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 32,
+  "billing_unit": "per agent add-on",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "7-day free trial",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Requires Allo seat (Solo $10/seat yearly)",
+   "Missed-call text-back",
+   "AI transcription & summaries"
+  ],
+  "source_url": "https://www.withallo.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "included_volume",
+   "overage"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "marlie",
+  "name": "Marlie.ai",
+  "url": "https://www.marlie.ai",
+  "logo_url": null,
+  "one_liner": "AI receptionist from $49/mo with 250 minutes.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 49,
+  "billing_unit": "minute",
+  "included_volume": "250 min/mo (Basic)",
+  "overage": "$0.35/min",
+  "free_trial": "2-week risk-free trial",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Standard $99 books appointments",
+   "Pro $199 adds texting"
+  ],
+  "source_url": "https://www.marlie.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations",
+   "human_backup"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "newo",
+  "name": "Newo.ai",
+  "url": "https://newo.ai",
+  "logo_url": null,
+  "one_liner": "AI receptionist with pay-as-you-go start; $299/mo plan.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 0,
+  "billing_unit": "unit",
+  "included_volume": "50 free units once; 200 units/mo on $299",
+  "overage": "$1.75/unit PAYG; $1.50/unit plan",
+  "free_trial": "Free units, no payment method",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "No long-term lock-in"
+  ],
+  "source_url": "https://newo.ai/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "unit_definition"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "posh",
+  "name": "Posh",
+  "url": "https://www.posh.com",
+  "logo_url": null,
+  "one_liner": "Live receptionist plans from $65/mo plus per-minute.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 65,
+  "billing_unit": "minute",
+  "included_volume": "0 min (Chic)",
+  "overage": "$2.30/min (Chic)",
+  "free_trial": "Free trial offered",
+  "human_backup": true,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Live receptionists",
+   "Plans to 1,000 minutes"
+  ],
+  "source_url": "https://www.posh.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "quo-sona",
+  "name": "Quo (formerly OpenPhone) AI agent",
+  "url": "https://www.quo.com",
+  "logo_url": null,
+  "one_liner": "Business phone with AI call credits (10 calls included).",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 0,
+  "billing_unit": "call (credits)",
+  "included_volume": "10 calls included on every plan",
+  "overage": "$1.00-$0.45/call by tier",
+  "free_trial": "Free trial offered",
+  "human_backup": null,
+  "integrations": [
+   "Jobber (mentioned)",
+   "Housecall Pro (mentioned)"
+  ],
+  "languages": [],
+  "sms_followup": true,
+  "key_features": [
+   "Credit tiers $0-$199/mo",
+   "Seats from $15/user/mo yearly"
+  ],
+  "source_url": "https://www.quo.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "trial_length"
+  ],
+  "notes": "Requires Quo seat.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "ringly",
+  "name": "Ringly",
+  "url": "https://www.ringly.io",
+  "logo_url": null,
+  "one_liner": "Per-conversation AI phone agent; $99/mo minimum.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 99,
+  "billing_unit": "conversation",
+  "included_volume": "50 conversations/mo",
+  "overage": "$1.99/conversation",
+  "free_trial": "Try for free (terms unverified)",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Human-only callers not charged",
+   "65% resolution guarantee"
+  ],
+  "source_url": "https://www.ringly.io/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "patlive",
+  "name": "PATLive",
+  "url": "https://www.patlive.com",
+  "logo_url": null,
+  "one_liner": "Live answering service; pay-as-you-go from $49/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 49,
+  "billing_unit": "minute",
+  "included_volume": "0 min (PAYG)",
+  "overage": "$2.99/min PAYG",
+  "free_trial": "Free trial offered",
+  "human_backup": true,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Live agents",
+   "Spanish mentioned"
+  ],
+  "source_url": "https://www.patlive.com/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "ai-receptionist-com",
+  "name": "AI-Receptionist.com",
+  "url": "https://ai-receptionist.com",
+  "logo_url": null,
+  "one_liner": "Low-cost AI receptionist from $14/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 14,
+  "billing_unit": "minute",
+  "included_volume": "75 voice min/mo",
+  "overage": "unverified",
+  "free_trial": "7-day trial",
+  "human_backup": null,
+  "integrations": [
+   "Google Calendar (mentioned)"
+  ],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Multilingual support",
+   "Starter $39 (100 min)"
+  ],
+  "source_url": "https://ai-receptionist.com/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "overage"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "dooza",
+  "name": "Dooza",
+  "url": "https://www.dooza.ai",
+  "logo_url": null,
+  "one_liner": "AI assistant checked by a real person, $200/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 200,
+  "billing_unit": "flat",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "First 7 days free",
+  "human_backup": true,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Human review of AI work"
+  ],
+  "source_url": "https://www.dooza.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "included_volume",
+   "overage"
+  ],
+  "notes": "Broader assistant, not phone-only.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "retell",
+  "name": "Retell AI",
+  "url": "https://www.retellai.com",
+  "logo_url": null,
+  "one_liner": "DIY voice agent platform, pay per minute.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 0,
+  "billing_unit": "minute",
+  "included_volume": "$10 free credits",
+  "overage": "$0.07-$0.31/min",
+  "free_trial": "$10 free credits",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Build-your-own; developer setup needed"
+  ],
+  "source_url": "https://www.retellai.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations"
+  ],
+  "notes": "DIY platform, not turnkey.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "vapi",
+  "name": "Vapi",
+  "url": "https://vapi.ai",
+  "logo_url": null,
+  "one_liner": "Developer voice AI platform; hosting about $0.05/min plus providers.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 0,
+  "billing_unit": "minute",
+  "included_volume": "$5 free credits",
+  "overage": "Provider costs extra",
+  "free_trial": "$5 free credits",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Developer-oriented",
+   "Core package $29/mo optional"
+  ],
+  "source_url": "https://www.vapi.ai/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "verified",
+  "unverified_fields": [
+   "integrations"
+  ],
+  "notes": "DIY platform, not turnkey.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "nextiva-xbert",
+  "name": "Nextiva XBert AI Receptionist",
+  "url": "https://www.nextiva.com",
+  "logo_url": null,
+  "one_liner": "AI receptionist add-on to Nextiva; AI plans from $99/mo.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": 99,
+  "billing_unit": "flat",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "unverified",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Add-on to Core $15/user/mo"
+  ],
+  "source_url": "https://www.nextiva.com/pricing",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "partial",
+  "unverified_fields": [
+   "included_volume",
+   "overage",
+   "free_trial"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "jobber-receptionist",
+  "name": "Jobber AI Receptionist",
+  "url": "https://www.getjobber.com",
+  "logo_url": null,
+  "one_liner": "AI receptionist inside Jobber field-service software.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": null,
+  "billing_unit": "plan bundle",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "Jobber free trial offered",
+  "human_backup": null,
+  "integrations": [
+   "Jobber (native)"
+  ],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Bundled in Jobber plans per pricing page"
+  ],
+  "source_url": "https://www.getjobber.com/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "unverified",
+  "unverified_fields": [
+   "starting_price_usd",
+   "included_volume",
+   "overage"
+  ],
+  "notes": "Pricing page lists receptionist inside plans; standalone price not shown.",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "housecall-pro-csr-ai",
+  "name": "Housecall Pro CSR AI",
+  "url": "https://www.housecallpro.com",
+  "logo_url": null,
+  "one_liner": "AI CSR that answers calls and books jobs inside Housecall Pro.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical",
+   "cleaning"
+  ],
+  "starting_price_usd": null,
+  "billing_unit": "unverified",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "2-week free trial (Housecall Pro)",
+  "human_backup": null,
+  "integrations": [
+   "Housecall Pro (native)"
+  ],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "Answers calls and books jobs 24/7"
+  ],
+  "source_url": "https://www.housecallpro.com/pricing/",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "unverified",
+  "unverified_fields": [
+   "starting_price_usd",
+   "billing_unit",
+   "included_volume",
+   "overage"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "avoca",
+  "name": "Avoca",
+  "url": "https://www.avoca.ai",
+  "logo_url": null,
+  "one_liner": "AI CSR for service businesses; demo/sales only.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical"
+  ],
+  "starting_price_usd": null,
+  "billing_unit": "contact sales",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "unverified",
+  "human_backup": null,
+  "integrations": [],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "AI CSR",
+   "Simple Scheduler",
+   "Web chat"
+  ],
+  "source_url": "https://www.avoca.ai",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "unverified",
+  "unverified_fields": [
+   "starting_price_usd",
+   "billing_unit",
+   "free_trial"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ },
+ {
+  "slug": "sameday",
+  "name": "Sameday AI",
+  "url": "https://sameday.ai",
+  "logo_url": null,
+  "one_liner": "AI CSRs and phone system for home-service companies.",
+  "trades_served": [
+   "hvac",
+   "plumbing",
+   "electrical"
+  ],
+  "starting_price_usd": null,
+  "billing_unit": "contact sales",
+  "included_volume": "unverified",
+  "overage": "unverified",
+  "free_trial": "unverified",
+  "human_backup": null,
+  "integrations": [
+   "ServiceTitan (mentioned)"
+  ],
+  "languages": [],
+  "sms_followup": null,
+  "key_features": [
+   "AI CSRs",
+   "Scheduling wizard",
+   "Outbound campaigns"
+  ],
+  "source_url": "https://sameday.ai",
+  "last_verified": "2026-10-15",
+  "verified_by": "MissedCallFix (curl of vendor page)",
+  "verification_status": "unverified",
+  "unverified_fields": [
+   "starting_price_usd",
+   "billing_unit",
+   "free_trial"
+  ],
+  "notes": "",
+  "featured": false,
+  "featured_until": null,
+  "affiliate_url": null
+ }
+]

@@ -1,7 +1,7 @@
 import './globals.css';
 import Link from 'next/link';
 import { SITE } from '../lib/data';
-export const metadata = { metadataBase: new URL(SITE), title: { default: 'MissedCallFix: AI receptionists for HVAC, plumbing, electrical & cleaning', template: '%s | MissedCallFix' }, description: 'Neutral, date-stamped directory of AI receptionists and answering services for home-service trades. Prices checked against vendor pricing pages.' };
+export const metadata = { metadataBase: new URL(SITE), title: { default: 'MissedCallFix: AI receptionists for HVAC, plumbing, electrical & cleaning', template: '%s | MissedCallFix' }, description: 'Neutral, date-stamped directory of AI receptionists and answering services for home-service trades. Prices checked against vendor pricing pages.', verification: { google: 'RDe_0GTHXsoTp8tLlnTFpiUyhOMZoFVA_DWJe01to8U' } };
 export default function Root({ children }: { children: React.ReactNode }) {
   return <html lang="en"><body>
     <header><Link className="logo" href="/">MissedCallFix</Link><nav>
